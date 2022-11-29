@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Graph Visualiser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Website to visualise the graph you want and at the same time do some basid graph operations like DFS, BFS, Dijkstra Algorithm and Minnimum Spanning Algorithm
 
-## Available Scripts
+## Disclamer
+The Visulaiser at present is create for nodes with ids only 0 to 99. I would recommend you use numbers in that range to represent the nodes.
 
-In the project directory, you can run:
 
 ### `npm start`
 
